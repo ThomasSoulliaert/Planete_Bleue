@@ -1,10 +1,14 @@
-# TI402-ProjetWeb
+# Planete_Bleue
 
+Promo 2028, P2, Groupe D
 
-# Equipe : 
-- SOULLIAERT Thomas
-- YE Lucas
+Equipe :
+- Thomas SOULLIAERT
+- Lucas YE
+
 Professeure : NACEUR Maha
+
+Date de rendu : 02/06/2025
 
 
 # Consignes
@@ -13,7 +17,7 @@ Professeure : NACEUR Maha
 Þ Votre travail sera évalué suivant la qualité du code final (lisibilité, propreté, indentation et documentation) mais également lors des séances du suivi projet par votre chargé(e) de TP/PROJET
   => Evalués lors de la séance de la semaine 22.
 Þ Le code final doit être déposé sur GitHub, l’utilisation de Git obligatoire.
-  => https://github.com/ThomasSoulliaert/TI402-ProjetWeb.git
+  => https://github.com/ThomasSoulliaert/Planete_Bleue.git
 Þ Toutes les pages du site Web doivent être valides W3C.
   => Pas d'erreur à signaler
 Þ Les contenus (textes, images, etc.) peuvent être pris sur diverses sources, à condition de les citer.
